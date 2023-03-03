@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:match*",
-      "destination": "music-meyzow0b4-huazi2000.vercel.app/:match*"
+      "destination": "https://music-meyzow0b4-huazi2000.vercel.app/:match*"
     }
   ]
 }
